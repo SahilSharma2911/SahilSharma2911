@@ -18,7 +18,7 @@ I am a highly motivated Full Stack Developer with a strong foundation in both fr
 
 💬 Ask me about **JavaScript, React... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: A day on Venus is longer than a year! Venus takes about 243 Earth days to complete one full rotation, but only 225 Earth days to orbit the Sun.
 
 </div>
 
