@@ -14,7 +14,7 @@ I am a highly motivated Full Stack Developer with a strong foundation in both fr
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently deepening my knowledge in DevOps (AWS) and exploring GraphQL, TypeScript.
 
 💬 Ask me about **Node.js, React, Firebase... or anything
 
