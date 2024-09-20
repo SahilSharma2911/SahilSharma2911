@@ -16,7 +16,7 @@ I am a highly motivated Full Stack Developer with a strong foundation in both fr
  
  🌱 I’m currently deepening my knowledge in DevOps (AWS) and exploring GraphQL, TypeScript.
 
-💬 Ask me about **Node.js, React, Firebase... or anything
+💬 Ask me about **JavaScript, React... or anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
