@@ -6,17 +6,22 @@
 
 <h3 align="center">A Passionate Full Stack Developer with Expertise in Building Scalable Web Applications</h3>
 
+<p align="center">
+I am a highly motivated Full Stack Developer with a strong foundation in both front-end and back-end technologies. I specialize in creating responsive, dynamic, and user-centric applications that deliver seamless experiences. With a solid understanding of JavaScript, React, Node.js, and modern frameworks, I build scalable solutions that align with business goals.
+</p>
+
 <br/>
 
 <div align="center">
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
+
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
