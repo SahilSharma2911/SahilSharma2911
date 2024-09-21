@@ -83,7 +83,8 @@ I am a highly motivated Full Stack Developer with a strong foundation in both fr
 <br>
 <div align=center>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SahilSharma2911&theme=github-dark-blue" alt="GitHub Streak" /></a>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilSharma2911)](https://github.com/SahilSharma2911/github-readme-stats)
+ ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilSharma2911&show_icons=true&theme=transparent)
+
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-SahilSharma2911.vercel.app/api/top-langs/?username=SahilSharma2911&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
 </div>
