@@ -83,7 +83,7 @@ I am a highly motivated Full Stack Developer with a strong foundation in both fr
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width=390 height=200 src="https://streak-stats.demolab.com?user=SahilSharma2911&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Streak" />
+    <img width=360 height=200 src="https://streak-stats.demolab.com?user=SahilSharma2911&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Streak" />
   </a>
   <img width=390 height=195 src="https://github-readme-stats.vercel.app/api?username=SahilSharma2911&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Stats" />
   <br/>
