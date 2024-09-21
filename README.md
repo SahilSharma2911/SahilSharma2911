@@ -81,11 +81,13 @@ I am a highly motivated Full Stack Developer with a strong foundation in both fr
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SahilSharma2911&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Streak" /></a>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=SahilSharma2911&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="readme stats" />
-<br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSharma2911&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img width=390 height=195 src="https://streak-stats.demolab.com?user=SahilSharma2911&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Streak" />
+  </a>
+  <img width=390 height=195 src="https://github-readme-stats.vercel.app/api?username=SahilSharma2911&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSharma2911&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <br/><br/>
